@@ -44,6 +44,7 @@ export { JSONLoader } from './loaders/JSONLoader.js';
 export { ImageLoader } from './loaders/ImageLoader.js';
 export { FontLoader } from './loaders/FontLoader.js';
 export { FileLoader } from './loaders/FileLoader.js';
+export { GLTFLoader } from './loaders/GLTFLoader.js';
 export { Loader } from './loaders/Loader.js';
 export { Cache } from './loaders/Cache.js';
 export { AudioLoader } from './loaders/AudioLoader.js';
